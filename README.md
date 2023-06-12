@@ -7,7 +7,7 @@ If you do not have this application. <a href="https://telegram.org/apps"> Downlo
 Then Login/Sign Up to your accout with your phone number.
 
 <h3> Follow these steps to start the bot </h3>
-1- on the search bar type ChatGPT DALL-E Bot </br>
+1- on the search bar type ChatGPT Bot | چت جی پی تی </br>
 2- then click on the first result and start the bot. </br>
 3- then you can see a description about how you can use the bot with its commands.
 
